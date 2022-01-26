@@ -1,5 +1,5 @@
 # Different-GBM-approaches
-Implementation and comparison of GBM, AGBM and RGBMT, developed as part of the Optimization for Data Science course (MS Data Science, Università degli Studi di Padova). 
+Implementation and comparison of GBM, AGBM and RGBM, developed as part of the Optimisation for Data Science course (MS Data Science, Università degli Studi di Padova). 
 
 We were asked to draw inspiration from the papers quoted in the bibliography (see: "Final paper" in the repository) and implement the following algorithms in Python language: 
 1. Gradient Boosting Machine
